@@ -1,4 +1,4 @@
-#Codigo adaptado de una tarea introduccion a keras. usado para probar el clusted de computo PATAGON de la UACH
+#Codigo adaptado de una tarea introduccion a keras. usado para probar el clusted de computo PATAGON de la UACH.
 
 # -*- coding: utf-8 -*-
 """holamundopatagon.ipynb
